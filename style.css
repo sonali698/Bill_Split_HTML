@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: beige;
+}
+
+#box{
+    background-color: rgb(79, 83, 82);
+    width: 500px;
+    margin: auto;
+    margin-top: 25vb;
+    padding: 15px;
+}
+
+input,button{
+    padding: 10px;
+    border: none;
+}
+
+button{
+    margin-top: 10px;
+    background-color: rgb(0, 0, 0);
+    color:beige;
+    transition:1s;
+}
+
+button:hover{
+    background-color: rgb(55, 55, 56);
+}
